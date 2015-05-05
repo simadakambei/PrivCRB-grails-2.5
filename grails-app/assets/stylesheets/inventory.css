@@ -1,0 +1,22 @@
+/**
+
+*/
+@import url("inventory/list.css");
+@import url("inventory/navigationmenu.css");
+@import url("inventory/messages.css");
+@import url("inventory/pagination.css");
+@import url("inventory/actionbuttons.css");
+@import url("inventory/tables.css");
+@import url("inventory/dialog.css");
+@import url("start/jquery-ui.min.css");
+@import url("start/jquery-ui.theme.css");
+@import url("start/jquery-ui.structure.min.css");
+@import url("inventory/additional.css");
+@import url("inventory/general.css");
+@import url("inventory/modules.css");
+@import url("inventory/link.css");
+@import url("bluetrip/ie.css");
+@import url("bluetrip/print.css");
+@import url("bluetrip/screen.css");
+@import url("bluetrip/style.css");
+

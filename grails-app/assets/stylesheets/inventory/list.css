@@ -1,0 +1,17 @@
+/* LIST */
+
+.list table {
+    border-collapse: collapse;
+}
+
+.list th, .list td {
+    border-left: 1px solid #ddd;
+}
+
+.list th:hover, .list tr:hover {
+    /* background: #e69700; */
+}
+
+.list tr:hover {
+    /*background: #e8a119; */
+}

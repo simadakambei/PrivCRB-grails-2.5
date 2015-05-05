@@ -1,0 +1,128 @@
+/* TABLES */
+
+table {
+    border: 1px solid #ccc;
+    width: 100%
+}
+
+thead {
+    background: #2e91e9 url(images/ui-bg_flat_75_aaaaaa_40x100.png) 50% 50% repeat-x repeat-y;
+}
+
+tr {
+    border: 0;
+}
+
+td, th {
+    background: #2e91e9 url(images/ui-bg_flat_75_aaaaaa_40x100.png) 50% 50% repeat-x repeat-y;
+    font: 11px verdana, arial, helvetica, sans-serif;
+    line-height: 10px;
+    padding: 3px 5px;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background: #2e91e9 url(images/ui-bg_flat_75_aaaaaa_40x100.png) 50% 50% repeat-x repeat-y;
+    color: #fff3f3;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 17px;
+    padding: 2px 5px;
+}
+
+th a:link, th a:visited, th a:hover {
+    background: #2e91e9 url(images/ui-bg_flat_75_aaaaaa_40x100.png) 50% 50% repeat-x repeat-y;
+    display: block;
+    font-size: 10px;
+    text-decoration: none;
+    width: 100%;
+}
+
+th .calheader {
+    color: #666666;
+}
+
+th.asc a, th.desc a {
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+th.asc a {
+    background-image: url(../images/skin/sorted_asc.gif);
+}
+
+th.desc a {
+    background-image: url(../images/skin/sorted_desc.gif);
+}
+
+.odd {
+    background: #f7f7f7;
+}
+
+.even {
+    background: #fff;
+}
+
+table .tiny {
+    border: 0;
+}
+
+.tiny td, th {
+    font: 11px verdana, arial, helvetica, sans-serif;
+    line-height: 10px;
+    padding: 2px 2px;
+    text-align: left;
+    vertical-align: top;
+}
+
+.eb thead {
+    background: #2e91e9 url(images/ui-bg_flat_75_aaaaaa_40x100.png) 50% 50% repeat-x repeat-y;
+}
+
+.eb tr {
+    border: 0;
+}
+
+.eb td, th {
+    background: #2e91e9 url(images/ui-bg_flat_75_aaaaaa_40x100.png) 50% 50% repeat-x repeat-y;
+    font: 11px verdana, arial, helvetica, sans-serif;
+    line-height: 10px;
+    padding: 3px 5px;
+    text-align: left;
+    vertical-align: top;
+}
+
+th .eb {
+    background: #2e91e9 url(images/ui-bg_flat_75_aaaaaa_40x100.png) 50% 50% repeat-x repeat-y;
+    color: #fff3f3;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 17px;
+    padding: 2px 5px;
+}
+
+.eb th a:link, th a:visited, th a:hover {
+    background: #2e91e9 url(images/ui-bg_flat_75_aaaaaa_40x100.png) 50% 50% repeat-x repeat-y;
+    display: block;
+    font-size: 10px;
+    text-decoration: none;
+    width: 100%;
+}
+
+.eb th .calheader {
+    color: #666666;
+}
+
+.eb th.asc a, th.desc a {
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.eb th.asc a {
+    background-image: url(../../images/skin/sorted_asc.gif);
+}
+
+.eb th.desc a {
+    background-image: url(../../images/skin/sorted_desc.gif);
+}

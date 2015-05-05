@@ -1,0 +1,132 @@
+
+html * {
+    margin: 0;
+    line-height: 1.5;
+    /*padding: 0; SELECT NOT DISPLAYED CORRECTLY IN FIREFOX */
+}
+
+p {
+    line-height: 1.5;
+}
+
+/* GENERAL */
+
+.spinner {
+    padding: 5px;
+    position: absolute;
+    right: 0;
+}
+
+body {
+    background: #fff;
+    color: #333;
+    font: 11px verdana, arial, helvetica, sans-serif;
+    margin: 0 0;
+    line-height: 1.5;
+}
+
+#grailsLogo {
+    padding: 20px;
+}
+
+.image-title {
+
+    padding: 10 10 10 10;
+}
+
+.text-preview {
+    font-size: 6px;
+}
+
+h1 {
+    color: #48802c;
+    font-weight: normal;
+    font-size: 16px;
+    margin: .8em 0 .3em 0;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+input, select, textarea {
+    background-color: #fcfcfc;
+    border: 1px solid #ccc;
+    font: 11px verdana, arial, helvetica, sans-serif;
+    margin: 2px 0;
+    padding: 2px 4px;
+}
+
+select {
+    padding: 2px 2px 2px 0;
+}
+
+textarea {
+    width: 250px;
+    height: 150px;
+    vertical-align: top;
+}
+
+input:focus, select:focus, textarea:focus {
+    border: 1px solid #b2d1ff;
+}
+
+.body {
+    float: left;
+    margin: 0 15px 10px 15px;
+}
+
+.thin {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#authperson {
+    position: absolute;
+    top: 5px;
+    z-index: 5;
+}
+
+.auth h7 {
+    color: #ffffff;
+}
+
+.auth a:link {
+    font-size: 1.1em;
+    font-weight: bold;
+    line-height: 1.6em;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.auth a:visited {
+    font-size: 1.1em;
+    font-weight: bold;
+    line-height: 1.6em;
+    text-decoration: none;
+    color: #fff6bf;
+}
+
+.auth a:hover {
+    font-size: 1.1em;
+    font-weight: bold;
+    line-height: 1.6em;
+    text-decoration: none;
+    color: #cccccc;
+}
+
+.scrolling-y {
+    overflow-y: scroll;
+}
+#chart_speed {
+    height: 100px;
+    width: 450px;
+}
+
+#report-panel {
+    padding: 1em 1.4em;
+}

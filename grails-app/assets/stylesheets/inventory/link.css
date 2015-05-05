@@ -1,0 +1,334 @@
+a:link, a:visited, a:hover {
+    color: #666;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 1.5;
+}
+
+/*** COLORS ***/
+.head_gbuz a:link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.head_gbuz a:visited {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.head_gbuz a:hover {
+    text-decoration: none;
+    color: #c33;
+}
+
+#head_gbuz a:active, a:focus {
+    text-decoration: none;
+    color: #000;
+}
+
+.buttons .lpu {
+    background: transparent url(../../images/icons/lpu_2.png) 5px 50% no-repeat;
+    padding-left: 35px;
+}
+
+.buttons .news {
+    background: transparent url(../../images/icons/hospital_black.png) 5px 50% no-repeat;
+    padding-left: 28px;
+    padding-bottom: 2px;
+}
+
+.buttons .vacancy {
+    background: transparent url(../../images/icons/vacancy_black.png) 5px 50% no-repeat;
+    padding-left: 28px;
+    padding-bottom: 2px;
+}
+
+.buttons .patient_response {
+    background: transparent url(../../images/skin/tab_edit.png) 5px 50% no-repeat;
+    padding-left: 28px;
+    padding-bottom: 2px;
+}
+
+.buttons .medbiblio {
+    background: transparent url(../../images/icons/medbiblio_black.png) 5px 50% no-repeat;
+    padding-left: 28px;
+    padding-bottom: 2px;
+}
+
+.buttons .health {
+    background: transparent url(../../images/icons/football_black.png) 5px 50% no-repeat;
+    padding-left: 28px;
+    padding-bottom: 2px;
+}
+
+.buttons .sanprosvet {
+    background: transparent url(../../images/icons/san_prosvet_black.png) 5px 50% no-repeat;
+    padding-left: 28px;
+    padding-bottom: 2px;
+}
+
+.buttons .for_personnel {
+    background: transparent url(../../images/skin/door_in.png) 5px 50% no-repeat;
+    padding-left: 28px;
+    padding-bottom: 2px;
+}
+
+.buttons .links {
+    padding-left: 5px;
+    padding-bottom: 2px;
+}
+
+.buttons .arm {
+    background: transparent url(../../images/skin/computer.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.monitor {
+    background: transparent url(../../images/skin/monitor.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.system_unit {
+    background: transparent url(../../images/icons/hardware/server/server_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.think_client {
+    background: transparent url(../../images/icons/hardware/think_client/desktop.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.motherboard {
+    background: transparent url(../../images/icons/hardware/motherboard/motherboard_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.hard_drive {
+    background: transparent url(../../images/icons/hardware/hard_drive/hard_drive_1.ico) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.memory {
+    background: transparent url(../../images/icons/hardware/ram/ram_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.processor {
+    background: transparent url(../../images/icons/hardware/cpu/cpu_2.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.video_card {
+    background: transparent url(../../images/icons/hardware/video_card/video_card_2.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.ethernet_card {
+    background: transparent url(../../images/icons/hardware/ethernet_card/ethernet_card_1.ico) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.audio_card {
+    background: transparent url(../../images/icons/hardware/audio_card/audio_card_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.corpus {
+    background: transparent url(../../images/icons/hardware/server/server_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.power_supply {
+    background: transparent url(../../images/icons/hardware/power_supply/power_supply_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.cooler {
+    background: transparent url(../../images/icons/hardware/cooler/cooler_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.reports {
+    background: transparent url(../../images/skin/chart_bar.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.keyboard {
+    background: transparent url(../../images/icons/hardware/keyboard/keyboard_4.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.mouse {
+    background: transparent url(../../images/icons/hardware/mouse/mouse_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.optical_drive {
+    background: transparent url(../../images/icons/hardware/optical_drive/optical_drive_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.floppy_drive {
+    background: transparent url(../../images/icons/hardware/floppy/floppy_2.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.external_drive {
+    background: transparent url(../../images/icons/hardware/flash_drive/flash_drive_2.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.speaker {
+    background: transparent url(../../images/icons/hardware/speakers/speakers_6.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.microphone {
+    background: transparent url(../../images/icons/hardware/microphone/microphone_4.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.web_camera {
+    background: transparent url(../../images/icons/hardware/web_camera/web_camera_2.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.ups {
+    background: transparent url(../../images/icons/hardware/ups/ups_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.usb_hub {
+    background: transparent url(../../images/icons/hardware/usb_hub/usb_hub_2.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.pilot {
+    background: transparent url(../../images/icons/hardware/pilot/pilot_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.kvm_switch {
+    background: transparent url(../../images/icons/hardware/kvm_switch/kvm_switch_2.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.server {
+    background: transparent url(../../images/icons/hardware/server/server_3.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.smartphone {
+    background: transparent url(../../images/icons/hardware/smartphone/iphone_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.planshet {
+    background: transparent url(../../images/icons/hardware/planshet/ipad_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.notebook {
+    background: transparent url(../../images/icons/hardware/notebook/notebook_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.scanner {
+    background: transparent url(../../images/icons/hardware/scanner/scanner_1.ico) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.printer {
+    background: transparent url(../../images/icons/hardware/printer/printer_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.mfu {
+    background: transparent url(../../images/icons/hardware/mfu/mfu_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.barcode_scanner {
+    background: transparent url(../../images/icons/hardware/barcode/barcode_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.card_reader {
+    background: transparent url(../../images/icons/hardware/card_reader/card_reader_2.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.fax {
+    background: transparent url(../../images/icons/hardware/fax/fax_4.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.proector {
+    background: transparent url(../../images/icons/hardware/proector/proector_1.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.screen {
+    background: transparent url(../../images/icons/hardware/screen/screen_3.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.holder {
+    background: transparent url(../../images/icons/hardware/tripod/tripod_2.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.sound_mixer {
+    background: transparent url(../../images/icons/hardware/sound_mixer/sound_mixer_2.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.routes {
+    background: transparent url(../../images/icons/hardware/router/router_3.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+legend.inventory {
+    background: transparent url(../../images/icons/hardware/inventory.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.inventory {
+    background: transparent url(../../images/icons/hardware/inventory.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+legend.application {
+    background: transparent url(../../images/skin/application_edit.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.application {
+    background: transparent url(../../images/skin/application_edit.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+legend.structural {
+    background: transparent url(../../images/skin/tree_dia.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.structural {
+    background: transparent url(../../images/skin/tree_dia.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.report {
+    background: transparent url(../../images/skin/chart_pie.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+.documentation {
+    background: transparent url(../../images/skin/report.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+
+
+
+

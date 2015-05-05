@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2298588260">
+    <data-source source="LOCAL" name="PrivCRB dev" uuid="f5cf99c7-b11a-425f-affe-b05f5629ff63">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.33.152:5432/privcrb_dev</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/lib/pg-8.4-703.jdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
